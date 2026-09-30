@@ -1,18 +1,17 @@
-# VPN IP Lesotho — Dr VPN
+# VPN IP Lesotho — Fast, Secure VPN for Lesotho
 
-**VPN IP Lesotho** is a fast, secure and free VPN for Android. Get a **Lesotho IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Lesotho** is a free, open-source, ad-free VPN app for Android, built for users in Lesotho. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Lesotho (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ls_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-lesotho/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Lesotho IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Lesotho, Lesotho VPN, VPN IP Lesotho, Lesotho IP address, free VPN Lesotho, buy VPN Lesotho, fast VPN Lesotho, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Lesotho, free VPN Lesotho, fast VPN, VPN IP Lesotho, Android VPN, unblock websites Lesotho.</sub>
